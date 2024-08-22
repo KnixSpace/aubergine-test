@@ -7,7 +7,11 @@
   padding: 0%;
   box-sizing: border-box;
   font-family: "Lato", system-ui;
-  color: aliceblue
+  color: aliceblue;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
 
 @layer utilities {
