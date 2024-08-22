@@ -1,6 +1,4 @@
 const App = () => {
-  return (
-    <div>App</div>
-  )
-}
-export default App
+  return <div>Infinix is alive</div>;
+};
+export default App;
